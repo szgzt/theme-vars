@@ -1,0 +1,20 @@
+{
+  "name": "@szgzt/theme-vars",
+  "version": "1.0.0",
+  "description": "工作台主题变量",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szgzt/theme-vars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szgzt/theme-vars/issues"
+  },
+  "homepage": "https://github.com/szgzt/theme-vars#readme"
+}
